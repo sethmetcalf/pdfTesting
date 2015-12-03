@@ -118,11 +118,11 @@ this.isDebug = true //local state turn me off to see
 	var saveAs = FileSaver.saveAs;
 
 	var defaultClientFonts = {
-		Roboto: {
-			normal: 'Roboto-Regular.ttf',
-			bold: 'Roboto-Medium.ttf',
-			italics: 'Roboto-Italic.ttf',
-			bolditalics: 'Roboto-Italic.ttf'
+		Calibri: {
+			normal: 'calibri.ttf',
+			bold: 'calibrib.ttf',
+			italics: 'calibrib.ttf',
+			bolditalics: 'calibrib.ttf'
 		}
 	};
 
